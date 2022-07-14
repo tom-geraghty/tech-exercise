@@ -135,7 +135,7 @@ This practice is particularly powerful when combined with **Continuous Integrati
 ### Part 2
 Test Driven Development (TDD) in LEGO
 
-Credit to [Gargoyle Software](http://www.gargoylesoftware.com/ex/lego_tdd)
+Credit to [Gargoyle Software](http://www.gargoylesoftware.com/articles/lego_tdd/)
 
 
 
